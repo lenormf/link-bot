@@ -1,4 +1,5 @@
-irc3==1.1.7
-requests==2.25.1
-beautifulsoup4==4.9.3
-lxml==4.6.3
+beautifulsoup4==4.12.2
+irc3==1.1.10
+lxml==4.9.3
+requests==2.31.0
+venusian==3.0.0
